@@ -11,6 +11,6 @@ if ENVIRONMENT:
     BOT_TOKEN = os.environ.get('BOT_TOKEN', None)
 else:
     # Fill the Values
-    API_ID = 0
-    API_HASH = ""
-    BOT_TOKEN = ""
+    API_ID = 2698821
+    API_HASH = "4af625c75eb9e72e1b228411b0c7cd42"
+    BOT_TOKEN = "2019628061:AAFFyvV2T5w1qr-LUv59F9qlW5eteeojHWM"
