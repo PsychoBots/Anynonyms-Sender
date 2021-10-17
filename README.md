@@ -2,3 +2,5 @@
 
 [![⚡](https://telegra.ph/file/3719c215b0229eda4fdb6.jpg)](https://t.me/Anynonyms_Bot)
 
+### This bot Can Hide Tags from Sender Name..😊
+
